@@ -6,3 +6,5 @@
 @import url(hero.css);
 @import url(sections.css);
 @import url(about.css);
+@import url(cards.css);
+@import url(features.css) (width >= 80rem) /*isso faz com que importe essas configurações somente para desktop, tendo em vista que só funcionará numa largura acima de 80 root em*/;
