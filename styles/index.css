@@ -10,3 +10,4 @@
 @import url(features.css) (width >= 80rem) /*isso faz com que importe essas configurações somente para desktop, tendo em vista que só funcionará numa largura acima de 80 root em*/;
 @import url(pricing.css);
 @import url(download.css);
+@import url(footer.css);
